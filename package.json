@@ -1,0 +1,15 @@
+{
+  "name": "km-player",
+  "version": "1.0.0",
+  "description": "Khmer Javascript Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "videojs",
+    "khmer-videojs"
+  ],
+  "author": "vicheanath",
+  "license": "ISC"
+}
